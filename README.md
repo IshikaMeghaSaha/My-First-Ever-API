@@ -1,2 +1,6 @@
 # My-First-Ever-API
-This is a REST API built using Golang and Gin
+These are basic REST APIs built using Golang.
+
+The first API I made was using Gin.
+
+The second one was made with the help of Mux.
